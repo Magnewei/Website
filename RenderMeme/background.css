@@ -1,0 +1,37 @@
+* {box-sizing: border-box;}
+
+body {
+  background-color: white;
+  text-align: center;
+  font-family: Tahoma, Verdana, sans-serif;
+  color: white;
+}
+
+header {
+  color: black;
+  text-align: left;
+  font-size: 33px;
+}
+
+.container {
+  justify-content: space-between;
+  flex-direction: column;
+  height: 100vh;
+  display: flex;
+  padding: 10px;
+}
+.container .btn-holder button {
+  background-color: grey;
+  justify-content: flex-end;
+  display: flex;
+  padding: 10px 25px;
+  font-size: 16px;
+  border: none;
+  color: #fff;
+  transition: 0.2s;
+}
+
+.btn-holder button:hover {
+  background-color: black;
+  color: white;
+}
