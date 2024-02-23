@@ -1,4 +1,10 @@
 body {
-  text-align: center;
-  background-color: lightyellow;
+    text-align: center;
+    background-color: lightyellow;
+}
+
+#cookiebutton {
+  border: none;
+  background-color: transparent;
+
 }
