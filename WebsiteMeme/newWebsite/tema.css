@@ -4,7 +4,7 @@ body {
 }
 
 #cookiebutton {
-  border: none;
-  background-color: transparent;
-
+    border: none;
+    background-color: transparent;
+    size: 300px;
 }
