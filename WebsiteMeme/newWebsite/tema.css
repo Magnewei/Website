@@ -8,3 +8,16 @@ body {
     background-color: transparent;
     size: 300px;
 }
+
+.Counter{
+    color: brown;
+    font-family: "Arial Black";
+    margin-top: -100px;
+    font-size:80px;
+}
+/*
+#cookiebutton:hover{
+    color: olivedrab;
+
+} //virker ikke endnu skal få cookie til at bevæge eller skifte farve når man klikker.
+*/
